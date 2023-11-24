@@ -1,3 +1,4 @@
 # Deep-Learning
-For Deep Learning/n
-Download the dataset and word vector package on your own.
+For Deep Learning
+
+*Download the dataset and word vector package on your own.
